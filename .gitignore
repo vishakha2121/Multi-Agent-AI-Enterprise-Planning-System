@@ -28882,39 +28882,3 @@ backend/.env.development
 uploads/
 media/
 files/
-public/uploads/
-public/media/
-frontend/public/uploads/
-temp/
-tmp/
-
-# ────────────────────────────────────────────────────────────
-# 14. AI / LLM CACHE
-# ────────────────────────────────────────────────────────────
-.cache/llm/
-.langchain/
-.openai/
-.pinecone/
-.chromadb/
-.weaviate/
-.ai-cache/
-models/
-*.gguf
-*.bin
-
-# ────────────────────────────────────────────────────────────
-# 15. PYTHON (if any scripts used)
-# ────────────────────────────────────────────────────────────
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-.python-version
-*.egg-info/
-dist/
