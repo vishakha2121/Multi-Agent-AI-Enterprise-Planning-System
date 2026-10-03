@@ -40692,27 +40692,3 @@ test-results/
 *.launch
 .settings/
 *.sublime-workspace
-*.sublime-project
-*.swp
-*.swo
-*~
-.history/
-.ionide/
-
-# ────────────────────────────────────────────────────────────
-# 7. OS GENERATED FILES
-# ────────────────────────────────────────────────────────────
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-.AppleDouble
-.LSOverride
-Icon
-.DocumentRevisions-V100
-.fseventsd
-.TemporaryItems
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-Thumbs.db
