@@ -40681,14 +40681,3 @@ test-results/
 .vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
-!.vscode/launch.json
-.idea/
-*.iml
-*.ipr
-*.iws
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
